@@ -1,0 +1,53 @@
+body {
+  font-family: "Karla", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+
+}
+
+.container {
+    width: 1500px;
+    margin: 40px;
+    margin-top: 100px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.box1 {
+    width: 28%;
+    margin: auto;
+    border: 1px solid black;
+    padding: 10px;
+    border-bottom: 6px solid rgb(17, 178, 232);
+    border-bottom-width: 10px;
+}
+
+.box2 {
+    width: 28%;
+    margin: auto;
+    border: 1px solid black;
+    padding: 10px;
+    border-bottom: 6px solid purple;
+    border-bottom-width: 10px;
+}
+
+.box3 {
+    width: 28%;
+    margin: auto;
+    border: 1px solid black;
+    padding: 10px;
+    border-bottom: 6px solid palevioletred;
+    border-bottom-width: 10px;
+}
+
+.abc {
+    line-height: 30px;
+    font-weight: 500;
+}
+
+.abc1 {
+    font-weight: 600;
+}
